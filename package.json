@@ -1,0 +1,26 @@
+{
+  "name": "config-node-app",
+  "version": "1.0.0",
+  "description": "```sh\r $ npm install\r $ npm install\r ```",
+  "main": "server.js",
+  "dependencies": {
+    "config": "^3.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvilladev/config-node-app.git"
+  },
+  "author": "carlosvilladev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosvilladev/config-node-app/issues"
+  },
+  "homepage": "https://github.com/carlosvilladev/config-node-app#readme"
+}
